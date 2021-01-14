@@ -16,7 +16,12 @@
 .presentation h1 {
     font-size: 30px;
     font-weight: bold;
-    text-transform: lowercase;
+    text-transform: uppercase;
+    margin-bottom: 15px;
+}
+
+.presentation p {
+    margin-bottom: 15px;
 }
 
 
