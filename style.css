@@ -1,18 +1,21 @@
-.body {
+body {
     /* display: flex;
     flex-direction: column; */
-    font-family: 'Ubuntu', sans-serif;
+    margin: 15px;
 }
 
 html{
     font-family: 'Ubuntu', sans-serif;
 }
 
+
+
 .presentation {
     display: flex;
     flex-direction: column;
     /* justify-content: center; */
     align-items: center;
+    margin-bottom: 50px;
 }
 
 .presentation h1 {
@@ -54,4 +57,64 @@ html{
 
 .fa-behance {
     color: #1769ff;
+}
+
+
+
+
+.formation{
+    margin-bottom: 50px;
+}
+
+
+
+
+
+.Experience_Pro {
+    margin-bottom: 50px;
+}
+
+
+
+
+
+.Realisations {
+    margin-bottom: 50px;
+}
+
+
+
+
+
+
+
+.Ce_que_je_sais_utiliser {
+    margin-bottom: 50px;
+}
+
+.quatre_gp_comps {
+    display: flex;
+    flex-direction: column;
+}
+
+.deux_gp_comps {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.deux_gp_comps i {
+    font-size: 80px;
+}
+
+.un_gp_comps {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+
+.langue {
+    margin-bottom: 50px;
 }
