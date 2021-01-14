@@ -2,7 +2,10 @@
     /* display: flex;
     flex-direction: column; */
     font-family: 'Ubuntu', sans-serif;
+}
 
+html{
+    font-family: 'Ubuntu', sans-serif;
 }
 
 .presentation {
@@ -10,7 +13,6 @@
     flex-direction: column;
     /* justify-content: center; */
     align-items: center;
-    font-family: 'Ubuntu', sans-serif;
 }
 
 .presentation h1 {
@@ -34,22 +36,22 @@
 }
 
 .rsx_scx a {
-    font-size: 65px;
+    font-size: 55px;
     text-decoration: none;
 }
 
-.fab fa-instagram {
-  color: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%);  
+.fa-instagram {
+    color: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%);  
 }
 
-.fab fa-linkedin-in {
+.fa-linkedin-in {
     color: #0e76a8;
 }
 
-.fab fa-dribbble {
+.fa-dribbble {
     color: #ea4c89;
 }
 
-.fab fa-behance {
+.fa-behance {
     color: #1769ff;
 }
