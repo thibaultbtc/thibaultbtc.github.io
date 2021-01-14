@@ -13,6 +13,12 @@
     font-family: 'Ubuntu', sans-serif;
 }
 
+.presentation h1 {
+    font-size: 30px;
+    font-weight: bold;
+    text-transform: lowercase;
+}
+
 
 .rsx_scx {
     display: flex;
