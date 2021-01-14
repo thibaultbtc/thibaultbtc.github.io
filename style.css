@@ -8,7 +8,9 @@ html{
     font-family: 'Ubuntu', sans-serif;
 }
 
-
+h2 {
+    text-transform: uppercase;
+}
 
 .presentation {
     display: flex;
@@ -27,6 +29,7 @@ html{
 
 .presentation p {
     margin-bottom: 15px;
+    text-align: justify;
 }
 
 
@@ -36,7 +39,10 @@ html{
     align-items: center;
     justify-content: space-around;
     margin-bottom: 50px;
+}
 
+.rsx_scx h2 {
+    display: none;
 }
 
 .rsx_scx a {
@@ -45,7 +51,7 @@ html{
 }
 
 .fa-instagram {
-    color: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%);  
+    color:  rgba(252,176,69,1);  
 }
 
 .fa-linkedin-in {
