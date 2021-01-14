@@ -1,4 +1,10 @@
-.test{
-    color: blueviolet;
-    font-size: 150px;
+.body {
+    display: flex;
+    flex-direction: column;
+    font-family: 'Ubuntu', sans-serif;
+
+}
+
+.section_1 {
+    
 }
